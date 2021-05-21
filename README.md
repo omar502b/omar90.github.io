@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html  >
 <head>
   <!-- Site made with Mobirise Website Builder v5.3.0, https://mobirise.com -->
@@ -190,5 +189,4 @@
             </div>
         </div>
     </div>
-</body>
-</html>
+
